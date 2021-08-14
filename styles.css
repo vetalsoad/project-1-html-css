@@ -91,10 +91,10 @@ html {
   margin-top: auto;
 }
 .footer__info {
-  display: fl;
   height: 338px;
   margin-left: 130px;
   display: flex;
+  margin-right: 226px;
 }
 .footer__logo {
   margin-top: 48px;
